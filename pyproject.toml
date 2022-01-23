@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "resolve-name-clash"
-version = "0.1.0"
+version = "0.1.1"
 description = "Simple utility that takes a source file and a destination directory and determines a unique name for the source file in the destination directory that will not clash with any existing file."
 authors = ["Shyam Pather <shyam.pather@gmail.com>"]
 license = "MIT"
